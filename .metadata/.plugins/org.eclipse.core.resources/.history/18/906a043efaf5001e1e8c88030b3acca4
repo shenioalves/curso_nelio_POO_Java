@@ -1,0 +1,8 @@
+package entities;
+
+public class Triangle {
+	public a;
+	public b;
+	public c;
+
+}
